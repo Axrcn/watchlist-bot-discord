@@ -1,6 +1,6 @@
 const { Client, Collection, GatewayIntentBits } = require("discord.js")
 
-const TOKEN = "MTAxMjk3MTM1MzExNDE1NzEwNw.G6ZKrJ.uWszS9su8oXY2mDV3cGDnrP7GzmCHrOlNNlSeQ"
+const TOKEN = "MTAxMjk3MTM1MzExNDE1NzEwNw.Gn3A75.Ji7krSDG3ai07udO0noV_3p77Nolu9tmXwI2WA"
 
 const client = new Client({ 
 
